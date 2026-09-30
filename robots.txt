@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://g0zbard.github.io/elysee27/sitemap.xml
